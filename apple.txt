@@ -1,0 +1,11 @@
+appldnld.apple.com
+gdmf.apple.com
+gg.apple.com
+gs.apple.com
+updates-http.cdn-apple.com
+updates.cdn-apple.com
+xp.apple.com
+*.itunes.apple.com
+*.apps.apple.com
+*.mzstatic.com
+itunes.apple.com
